@@ -9,6 +9,7 @@ The following components are required to be installed on your PC prior to start 
 - Axios module ```npm install axios```
 - socket.io module ```npm install socket.io-client```
 - Bootstrap for styling ```npm i bootstrap```
+- Install VITE v4.5.0 ```npm i vite@4.5.0```
 
 ```js
 import axios from "axios";
